@@ -1,0 +1,17 @@
+{
+  "name": "SalesVault - ToB销售私密记录",
+  "short_name": "SalesVault",
+  "description": "ToB销售个人私密记录工具，本地加密存储，绝对隐私保护",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#10b981",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
